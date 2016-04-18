@@ -3,7 +3,7 @@ NSX automation build environment.
 
 This is a NSX build script created to make the following environment..
 
-[Alt text](https://github.com/burnyd/NSXBuild/blob/master/nsxauto2.PNG?raw=true "NSX environment")
+[NSX Environment](https://github.com/burnyd/NSXBuild/blob/master/nsxauto2.PNG?raw=true "NSX environment")
 
 The assumptions are that the NSX environment is already built with controllers,clusters prepared for vibs and vteps.
 
